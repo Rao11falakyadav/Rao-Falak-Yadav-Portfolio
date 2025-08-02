@@ -22,6 +22,6 @@ Google, IBM, Microsoft, AWS, Deloitte, TCS iON
 ## 📬 Contact
 - Email: falakyadav9@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/falak-yadav-a61199241/ 
-- GitHub: github.com/Rao11falakyadav
+- GitHub: https://github.com/Rao11falakyadav
 
 © 2025 Falak Yadav
