@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#ffc107" />
+  <text x="400" y="100" font-family="Arial" font-size="40" text-anchor="middle" fill="white">Personal Finance Tracker</text>
+  <g transform="translate(300, 180)">
+    <rect x="0" y="0" width="200" height="150" rx="10" ry="10" fill="white" opacity="0.3" />
+    <line x1="0" y1="40" x2="200" y2="40" stroke="white" stroke-width="2" />
+    <line x1="0" y1="80" x2="200" y2="80" stroke="white" stroke-width="2" />
+    <line x1="0" y1="120" x2="200" y2="120" stroke="white" stroke-width="2" />
+    <line x1="50" y1="0" x2="50" y2="150" stroke="white" stroke-width="2" />
+    <line x1="150" y1="0" x2="150" y2="150" stroke="white" stroke-width="2" />
+    <text x="25" y="25" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Date</text>
+    <text x="100" y="25" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Description</text>
+    <text x="175" y="25" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Amount</text>
+    <g transform="translate(25, 60)">
+      <text x="0" y="0" font-family="Arial" font-size="12" text-anchor="middle" fill="white">01/05</text>
+      <text x="75" y="0" font-family="Arial" font-size="12" text-anchor="middle" fill="white">Groceries</text>
+      <text x="150" y="0" font-family="Arial" font-size="12" text-anchor="middle" fill="white">-$45.00</text>
+    </g>
+    <g transform="translate(25, 100)">
+      <text x="0" y="0" font-family="Arial" font-size="12" text-anchor="middle" fill="white">02/05</text>
+      <text x="75" y="0" font-family="Arial" font-size="12" text-anchor="middle" fill="white">Salary</text>
+      <text x="150" y="0" font-family="Arial" font-size="12" text-anchor="middle" fill="white">+$1200.00</text>
+    </g>
+    <g transform="translate(25, 140)">
+      <text x="0" y="0" font-family="Arial" font-size="12" text-anchor="middle" fill="white">03/05</text>
+      <text x="75" y="0" font-family="Arial" font-size="12" text-anchor="middle" fill="white">Rent</text>
+      <text x="150" y="0" font-family="Arial" font-size="12" text-anchor="middle" fill="white">-$600.00</text>
+    </g>
+  </g>
+</svg>
